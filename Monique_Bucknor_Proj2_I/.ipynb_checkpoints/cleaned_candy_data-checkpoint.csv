@@ -1,0 +1,86 @@
+competitorname,chocolate,fruity,caramel,peanutyalmondy,nougat,crispedricewafer,hard,bar,pluribus,sugarpercent,pricepercent,winpercent,WinRateCateg,SugarLevel,Price Comparison
+100 Grand,1,0,1,0,0,1,0,1,0,0.73199999,0.86000001,66.971725,High Win Rate,High Sugar Level,Expensive
+3 Musketeers,1,0,0,0,1,0,0,1,0,0.60399997,0.51099998,67.602936,High Win Rate,Medium Sugar Level,Average Price
+One dime,0,0,0,0,0,0,0,0,0,0.011,0.116,32.261086,Low Win Rate,Low Sugar Level,Cheaper
+One quarter,0,0,0,0,0,0,0,0,0,0.011,0.51099998,46.116505,Medium Win Rate,Low Sugar Level,Average Price
+Air Heads,0,1,0,0,0,0,0,0,0,0.90600002,0.51099998,52.341465,Medium Win Rate,High Sugar Level,Average Price
+Almond Joy,1,0,0,1,0,0,0,1,0,0.465,0.76700002,50.347546,Medium Win Rate,Medium Sugar Level,Expensive
+Baby Ruth,1,0,1,1,1,0,0,1,0,0.60399997,0.76700002,56.914547,Medium Win Rate,Medium Sugar Level,Expensive
+Boston Baked Beans,0,0,0,1,0,0,0,0,1,0.31299999,0.51099998,23.417824,Low Win Rate,Low Sugar Level,Average Price
+Candy Corn,0,0,0,0,0,0,0,0,1,0.90600002,0.32499999,38.010963,Medium Win Rate,High Sugar Level,Cheaper
+Caramel Apple Pops,0,1,1,0,0,0,0,0,0,0.60399997,0.32499999,34.517681,Medium Win Rate,Medium Sugar Level,Cheaper
+Charleston Chew,1,0,0,0,1,0,0,1,0,0.60399997,0.51099998,38.975037,Medium Win Rate,Medium Sugar Level,Average Price
+Chewey Lemonhead Fruit Mix,0,1,0,0,0,0,0,0,1,0.73199999,0.51099998,36.017628,Medium Win Rate,High Sugar Level,Average Price
+Chiclets,0,1,0,0,0,0,0,0,1,0.046,0.32499999,24.524988,Low Win Rate,Low Sugar Level,Cheaper
+Dots,0,1,0,0,0,0,0,0,1,0.73199999,0.51099998,42.272076,Medium Win Rate,High Sugar Level,Average Price
+Dum Dums,0,1,0,0,0,0,1,0,0,0.73199999,0.034000002,39.460556,Medium Win Rate,High Sugar Level,Cheaper
+Fruit Chews,0,1,0,0,0,0,0,0,1,0.127,0.034000002,43.088924,Medium Win Rate,Low Sugar Level,Cheaper
+Fun Dip,0,1,0,0,0,0,1,0,0,0.73199999,0.32499999,39.185505,Medium Win Rate,High Sugar Level,Cheaper
+Gobstopper,0,1,0,0,0,0,1,0,1,0.90600002,0.45300001,46.783348,Medium Win Rate,High Sugar Level,Average Price
+Haribo Gold Bears,0,1,0,0,0,0,0,0,1,0.465,0.465,57.11974,Medium Win Rate,Medium Sugar Level,Average Price
+Haribo Happy Cola,0,0,0,0,0,0,0,0,1,0.465,0.465,34.158958,Medium Win Rate,Medium Sugar Level,Average Price
+Haribo Sour Bears,0,1,0,0,0,0,0,0,1,0.465,0.465,51.41243,Medium Win Rate,Medium Sugar Level,Average Price
+Haribo Twin Snakes,0,1,0,0,0,0,0,0,1,0.465,0.465,42.178772,Medium Win Rate,Medium Sugar Level,Average Price
+Hershey's Kisses,1,0,0,0,0,0,0,0,1,0.127,0.093000002,55.375454,Medium Win Rate,Low Sugar Level,Cheaper
+Hershey's Krackel,1,0,0,0,0,1,0,1,0,0.43000001,0.91799998,62.284481,Medium Win Rate,Medium Sugar Level,Expensive
+Hershey's Milk Chocolate,1,0,0,0,0,0,0,1,0,0.43000001,0.91799998,56.490501,Medium Win Rate,Medium Sugar Level,Expensive
+Hershey's Special Dark,1,0,0,0,0,0,0,1,0,0.43000001,0.91799998,59.236122,Medium Win Rate,Medium Sugar Level,Expensive
+Jawbusters,0,1,0,0,0,0,1,0,1,0.093000002,0.51099998,28.127439,Low Win Rate,Low Sugar Level,Average Price
+Junior Mints,1,0,0,0,0,0,0,0,1,0.197,0.51099998,57.21925,Medium Win Rate,Low Sugar Level,Average Price
+Kit Kat,1,0,0,0,0,1,0,1,0,0.31299999,0.51099998,76.7686,High Win Rate,Low Sugar Level,Average Price
+Laffy Taffy,0,1,0,0,0,0,0,0,0,0.22,0.116,41.389557,Medium Win Rate,Low Sugar Level,Cheaper
+Lemonhead,0,1,0,0,0,0,1,0,0,0.046,0.104,39.141056,Medium Win Rate,Low Sugar Level,Cheaper
+Lifesavers big ring gummies,0,1,0,0,0,0,0,0,0,0.26699999,0.27900001,52.911392,Medium Win Rate,Low Sugar Level,Cheaper
+Peanut butter M&M's,1,0,0,1,0,0,0,0,1,0.82499999,0.65100002,71.46505,High Win Rate,High Sugar Level,Average Price
+M&M's,1,0,0,0,0,0,0,0,1,0.82499999,0.65100002,66.574585,High Win Rate,High Sugar Level,Average Price
+Mike & Ike,0,1,0,0,0,0,0,0,1,0.87199998,0.32499999,46.411716,Medium Win Rate,High Sugar Level,Cheaper
+Milk Duds,1,0,1,0,0,0,0,0,1,0.30199999,0.51099998,55.064072,Medium Win Rate,Low Sugar Level,Average Price
+Milky Way,1,0,1,0,1,0,0,1,0,0.60399997,0.65100002,73.099556,High Win Rate,Medium Sugar Level,Average Price
+Milky Way Midnight,1,0,1,0,1,0,0,1,0,0.73199999,0.44100001,60.800701,Medium Win Rate,High Sugar Level,Average Price
+Milky Way Simply Caramel,1,0,1,0,0,0,0,1,0,0.96499997,0.86000001,64.35334,Medium Win Rate,High Sugar Level,Expensive
+Mounds,1,0,0,0,0,0,0,1,0,0.31299999,0.86000001,47.829754,Medium Win Rate,Low Sugar Level,Expensive
+Mr Good Bar,1,0,0,1,0,0,0,1,0,0.31299999,0.91799998,54.526451,Medium Win Rate,Low Sugar Level,Expensive
+Nerds,0,1,0,0,0,0,1,0,1,0.84799999,0.32499999,55.354046,Medium Win Rate,High Sugar Level,Cheaper
+Nestle Butterfinger,1,0,0,1,0,0,0,1,0,0.60399997,0.76700002,70.735641,High Win Rate,Medium Sugar Level,Expensive
+Nestle Crunch,1,0,0,0,0,1,0,1,0,0.31299999,0.76700002,66.47068,High Win Rate,Low Sugar Level,Expensive
+Nik L Nip,0,1,0,0,0,0,0,0,1,0.197,0.97600001,22.445341,Low Win Rate,Low Sugar Level,Expensive
+Now & Later,0,1,0,0,0,0,0,0,1,0.22,0.32499999,39.4468,Medium Win Rate,Low Sugar Level,Cheaper
+Payday,0,0,0,1,1,0,0,1,0,0.465,0.76700002,46.296597,Medium Win Rate,Medium Sugar Level,Expensive
+Peanut M&Ms,1,0,0,1,0,0,0,0,1,0.59299999,0.65100002,69.483788,High Win Rate,Medium Sugar Level,Average Price
+Pixie Sticks,0,0,0,0,0,0,0,0,1,0.093000002,0.023,37.722336,Medium Win Rate,Low Sugar Level,Cheaper
+Pop Rocks,0,1,0,0,0,0,1,0,1,0.60399997,0.83700001,41.265511,Medium Win Rate,Medium Sugar Level,Expensive
+Red vines,0,1,0,0,0,0,0,0,1,0.58099997,0.116,37.348522,Medium Win Rate,Medium Sugar Level,Cheaper
+Reese's Miniatures,1,0,0,1,0,0,0,0,0,0.034000002,0.27900001,81.866257,High Win Rate,Low Sugar Level,Cheaper
+Reese's Peanut Butter cup,1,0,0,1,0,0,0,0,0,0.72000003,0.65100002,84.18029,High Win Rate,High Sugar Level,Average Price
+Reese's pieces,1,0,0,1,0,0,0,0,1,0.40599999,0.65100002,73.43499,High Win Rate,Medium Sugar Level,Average Price
+Reese's stuffed with pieces,1,0,0,1,0,0,0,0,0,0.98799998,0.65100002,72.887901,High Win Rate,High Sugar Level,Average Price
+Ring pop,0,1,0,0,0,0,1,0,0,0.73199999,0.96499997,35.290756,Medium Win Rate,High Sugar Level,Expensive
+Rolo,1,0,1,0,0,0,0,0,1,0.86000001,0.86000001,65.716286,Medium Win Rate,High Sugar Level,Expensive
+Root Beer Barrels,0,0,0,0,0,0,1,0,1,0.73199999,0.068999998,29.703691,Low Win Rate,High Sugar Level,Cheaper
+Runts,0,1,0,0,0,0,1,0,1,0.87199998,0.27900001,42.849144,Medium Win Rate,High Sugar Level,Cheaper
+Sixlets,1,0,0,0,0,0,0,0,1,0.22,0.081,34.722,Medium Win Rate,Low Sugar Level,Cheaper
+Skittles original,0,1,0,0,0,0,0,0,1,0.94099998,0.22,63.08514,Medium Win Rate,High Sugar Level,Cheaper
+Skittles wildberry,0,1,0,0,0,0,0,0,1,0.94099998,0.22,55.103695,Medium Win Rate,High Sugar Level,Cheaper
+Nestle Smarties,1,0,0,0,0,0,0,0,1,0.26699999,0.97600001,37.887188,Medium Win Rate,Low Sugar Level,Expensive
+Smarties candy,0,1,0,0,0,0,1,0,1,0.26699999,0.116,45.995827,Medium Win Rate,Low Sugar Level,Cheaper
+Snickers,1,0,1,1,1,0,0,1,0,0.546,0.65100002,76.673782,High Win Rate,Medium Sugar Level,Average Price
+Snickers Crisper,1,0,1,1,0,1,0,1,0,0.60399997,0.65100002,59.529251,Medium Win Rate,Medium Sugar Level,Average Price
+Sour Patch Kids,0,1,0,0,0,0,0,0,1,0.068999998,0.116,59.863998,Medium Win Rate,Low Sugar Level,Cheaper
+Sour Patch Tricksters,0,1,0,0,0,0,0,0,1,0.068999998,0.116,52.825947,Medium Win Rate,Low Sugar Level,Cheaper
+Starburst,0,1,0,0,0,0,0,0,1,0.15099999,0.22,67.037628,High Win Rate,Low Sugar Level,Cheaper
+Strawberry bon bons,0,1,0,0,0,0,1,0,1,0.56900001,0.057999998,34.578991,Medium Win Rate,Medium Sugar Level,Cheaper
+Sugar Babies,0,0,1,0,0,0,0,0,1,0.96499997,0.76700002,33.43755,Medium Win Rate,High Sugar Level,Expensive
+Sugar Daddy,0,0,1,0,0,0,0,0,0,0.41800001,0.32499999,32.230995,Low Win Rate,Medium Sugar Level,Cheaper
+Super Bubble,0,1,0,0,0,0,0,0,0,0.162,0.116,27.303865,Low Win Rate,Low Sugar Level,Cheaper
+Swedish Fish,0,1,0,0,0,0,0,0,1,0.60399997,0.755,54.861111,Medium Win Rate,Medium Sugar Level,Expensive
+Tootsie Pop,1,1,0,0,0,0,1,0,0,0.60399997,0.32499999,48.982651,Medium Win Rate,Medium Sugar Level,Cheaper
+Tootsie Roll Juniors,1,0,0,0,0,0,0,0,0,0.31299999,0.51099998,43.068897,Medium Win Rate,Low Sugar Level,Average Price
+Tootsie Roll Midgies,1,0,0,0,0,0,0,0,1,0.17399999,0.011,45.736748,Medium Win Rate,Low Sugar Level,Cheaper
+Tootsie Roll Snack Bars,1,0,0,0,0,0,0,1,0,0.465,0.32499999,49.653503,Medium Win Rate,Medium Sugar Level,Cheaper
+Trolli Sour Bites,0,1,0,0,0,0,0,0,1,0.31299999,0.255,47.173229,Medium Win Rate,Low Sugar Level,Cheaper
+Twix,1,0,1,0,0,1,0,1,0,0.546,0.90600002,81.642914,High Win Rate,Medium Sugar Level,Expensive
+Twizzlers,0,1,0,0,0,0,0,0,0,0.22,0.116,45.466282,Medium Win Rate,Low Sugar Level,Cheaper
+Warheads,0,1,0,0,0,0,1,0,0,0.093000002,0.116,39.011898,Medium Win Rate,Low Sugar Level,Cheaper
+Welch's Fruit Snacks,0,1,0,0,0,0,0,0,1,0.31299999,0.31299999,44.375519,Medium Win Rate,Low Sugar Level,Cheaper
+Werther's Original Caramel,0,0,1,0,0,0,1,0,0,0.186,0.26699999,41.904308,Medium Win Rate,Low Sugar Level,Cheaper
+Whoppers,1,0,0,0,0,1,0,0,1,0.87199998,0.84799999,49.524113,Medium Win Rate,High Sugar Level,Expensive
